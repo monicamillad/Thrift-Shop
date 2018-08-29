@@ -1,0 +1,30 @@
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\Thrift Shop.exe.config
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\Thrift Shop.exe
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\Thrift Shop.pdb
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\EntityFramework.dll
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\EntityFramework.SqlServer.dll
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Data.dll
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Web.dll
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\EntityFramework.xml
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\EntityFramework.SqlServer.xml
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Data.xml
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\bin\Debug\MySql.Web.xml
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.csprojResolveAssemblyReference.cache
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.Form1.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.Properties.Resources.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.csproj.GenerateResource.Cache
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.exe
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.pdb
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.Form2.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.Form3.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.AddNewProduct.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.ShowAllProducts.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.FilteredProducts.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.SortedProducts.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.AddBrand.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Thrift Shop\Thrift Shop\obj\Debug\Thrift_Shop.ShowAllBrands.resources
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Problem #2\Thrift Shop\Thrift Shop\bin\Debug\Thrift Shop.exe.config
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Problem #2\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.exe
+E:\fci\fourth year\first semester\Concepts of Programming Languages\Assignments\Assignment3\Problem #2\Thrift Shop\Thrift Shop\obj\Debug\Thrift Shop.pdb
